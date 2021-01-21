@@ -2454,7 +2454,7 @@ def test_create_table_from_final_row():
 
 
 def test_key_values_in_as_array():
-    # Test for cheking column slicing using key_values in Table.as_array()
+    # Test for checking column slicing using key_values in Table.as_array()
     data_rows = [(1, 2.0, 'x'),
                  (4, 5.0, 'y'),
                  (5, 8.2, 'z')]
